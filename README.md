@@ -266,14 +266,17 @@ This project uses **Python 3.6.6** and the necessary libraries are mentioned in 
 |---requirements.txt			# Required packages
 |---images                      # images folder    
 |                     
-|---+---benchmark               # benchmark dataset 
+|---+---benchmark               # DropBox (https://www.dropbox.com/sh/5u43laa5zv9iibj/AAA16-sE5-GHdYO_YGvfvnxZa?dl=0) 
 |   | 
-|   +---models   				# saved models folder 
+|   +---models   				# DropBox (https://www.dropbox.com/sh/5u43laa5zv9iibj/AAA16-sE5-GHdYO_YGvfvnxZa?dl=0) 
 |       
 +---dog_app1.ipynb              # notebook to implement model1 using pretrained VGG16 
 +---dog_app2.ipynb              # notebook to implement model1 using pretrained VGG19
 +---dog_app3.ipynb              # notebook to visualization and error calculation  
 +---dog_app4.ipynb              # notebook to benchmark calculation   
++---capstone_proposal.pdf       # Capstone Proposal   
++---capstone_report.pdf         # Capstone Report   
+
 
 </pre>
 <hr/> 
